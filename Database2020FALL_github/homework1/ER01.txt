@@ -1,0 +1,9 @@
+Metadata:
+Name: Yue Zhou
+Net ID: yz1268
+Software used for producing the diagram: drawio
+Computer used: my own machine running macOS 10.14.6
+
+Constraints:
+B is never NULL
+I is computed as N - P
