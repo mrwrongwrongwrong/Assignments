@@ -1,3 +1,0 @@
-Solution exchanging the roles of NetID and IDNumber is equally valid.
-
-You could also charactrize the non-key that could be a key as UNIQUE, CANDIDATE KEY, or ALTERNATE KEY. These instead of writing what's in the given solution, which is more "low level."

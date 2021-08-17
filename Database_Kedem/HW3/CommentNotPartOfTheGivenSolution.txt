@@ -1,7 +1,0 @@
-Belongs is total but this follows from the diagram so this should not be in the annotations.
-
-The reason is that because Cat is a weak entity whose identification requires the knowledge of the strong entity that is required for its identification, for each Cat there is exactly one Green to whom the Cat is related under Belongs.
-
-In other words, as for every Cat we have a Green (no Cat without a Green), Belongs must be total.
-
-And we deduce this from looking at the diagram.
